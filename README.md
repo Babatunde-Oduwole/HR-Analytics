@@ -34,7 +34,7 @@ In the initial data preparation phase, the following tasks were performed:
 1. Checked for missing values, inconsistencies, and outliers across all data fields.
 2. Ensured consistency in data formats and structures by standardizing date formats and ensuring uniformity in categorical variables like department names and job roles.
 3. Identified and removed duplicate entries to prevent skewed analysis.
-4. Transformrd data into appropriate formats for analysis.
+4. Transformed data into appropriate formats for analysis.
    
 ### Exploratory Data Analysis (EDA)
 
@@ -53,7 +53,7 @@ EDA involved exploring the HR data to answer key questions, such as:
 
 ### Findings
 Below are some of the finding discovered after analysis:
-1. The company's workforce is quite young because the largest portion of their employees are within youthful age, i.e between the age of 25-44.
+1. The company's workforce is quite young because the largest portion of their employees are within youthful age, i.e between the age of 25-44 years old.
 2. The attrition rate of male employees across all age group is high, and this need to be looked into, this could have a negative impact on the organization in ashort period of time.
 3. There is a relatively low attrition rate in the HR department while the R&D, and Sales department has a high level of attrition rate.
 
